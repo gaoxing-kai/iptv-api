@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-22 22:16:01,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
+2026-09-23 07:55:58,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
@@ -68,8 +68,8 @@ CETV-4,https://iptv.catvod.com/live.php?id=CETV4
 CETV-4,https://iptv.catvod.com/live.php?id=CETV4&line=1
 
 📡卫视频道,#genre#
-广东卫视,http://204.12.221.218:8181/3m1080p/gdws.m3u8
 广东卫视,http://198.204.228.26/live/gdwshd.m3u8
+广东卫视,http://204.12.221.218:8181/3m1080p/gdws.m3u8
 广东卫视,http://107.150.60.122/live/gdwshd.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://101.35.240.114:88/live.php?id=香港卫视
@@ -79,11 +79,11 @@ CETV-4,https://iptv.catvod.com/live.php?id=CETV4&line=1
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
-浙江卫视,http://173.208.212.130:8181/720p/zjws.m3u8
 浙江卫视,http://204.12.221.218:8181/3m1080p/zjws.m3u8
+浙江卫视,http://173.208.212.130:8181/720p/zjws.m3u8
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://204.12.221.218:8181/3m1080p/hnws.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://61.136.172.236:9901/tsfile/live/0128_1.m3u8
 北京卫视,http://107.150.60.122/live/bjwshd.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
@@ -124,24 +124,24 @@ CETV-4,https://iptv.catvod.com/live.php?id=CETV4&line=1
 贵州卫视,http://198.204.228.26/live/gzwshd.m3u8
 贵州卫视,http://204.12.221.218:8181/3m1080p/gzws.m3u8
 海南卫视,http://204.12.221.218:8181/3m1080p/lyws.m3u8
-河北卫视,http://173.208.212.130:8181/720p/hews.m3u8
 河北卫视,http://204.12.221.218:8181/3m1080p/hews.m3u8
+河北卫视,http://173.208.212.130:8181/720p/hews.m3u8
 河北卫视,http://61.136.172.236:9901/tsfile/live/0117_1.m3u8
-河南卫视,http://107.150.60.122/live/hawshd.m3u8
 河南卫视,http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
+河南卫视,http://107.150.60.122/live/hawshd.m3u8
 河南卫视,http://173.208.212.130:8181/720p/haws.m3u8
 河南卫视,http://204.12.221.218:8181/3m1080p/haws.m3u8
 河南卫视,http://61.136.172.236:9901/tsfile/live/0139_1.m3u8
 吉林卫视,http://107.150.60.122/live/jlwshd.m3u8
 吉林卫视,http://204.12.221.218:8181/3m1080p/jlws.m3u8
-江苏卫视,http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009
 江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
+江苏卫视,http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009
 江苏卫视,http://61.136.172.236:9901/tsfile/live/0127_1.m3u8
-江西卫视,http://198.204.228.26/live/jxwshd.m3u8
 江西卫视,http://204.12.221.218:8181/3m1080p/jxws.m3u8
+江西卫视,http://198.204.228.26/live/jxwshd.m3u8
 江西卫视,http://107.150.60.122/live/jxwshd.m3u8
-辽宁卫视,http://107.150.60.122/live/lnwshd.m3u8
 辽宁卫视,http://204.12.221.218:8181/3m1080p/lnws.m3u8
+辽宁卫视,http://107.150.60.122/live/lnwshd.m3u8
 辽宁卫视,http://61.136.172.236:9901/tsfile/live/0121_1.m3u8
 内蒙古卫视,http://107.150.60.122/live/nmgws.m3u8
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
@@ -150,15 +150,15 @@ CETV-4,https://iptv.catvod.com/live.php?id=CETV4&line=1
 山东卫视,http://107.150.60.122/live/sdwshd.m3u8
 山东卫视,http://61.136.172.236:9901/tsfile/live/0131_1.m3u8
 山西卫视,http://107.150.60.122/live/sxwshd.m3u8
-山西卫视,http://204.12.221.218:8181/3m1080p/sxws.m3u8
 山西卫视,http://198.204.228.26/live/sxwshd.m3u8
-陕西卫视,http://198.204.228.26/live/snwshd.m3u8
+山西卫视,http://204.12.221.218:8181/3m1080p/sxws.m3u8
 陕西卫视,http://204.12.221.218:8181/3m1080p/snws.m3u8
+陕西卫视,http://198.204.228.26/live/snwshd.m3u8
 四川卫视,http://107.150.60.122/live/scwshd.m3u8
 四川卫视,http://204.12.221.218:8181/3m1080p/scws.m3u8
-深圳卫视,http://107.150.60.122/live/szwshd.m3u8
-深圳卫视,http://204.12.221.218:8181/3m1080p/szws.m3u8
 深圳卫视,http://198.204.228.26/live/szwshd.m3u8
+深圳卫视,http://204.12.221.218:8181/3m1080p/szws.m3u8
+深圳卫视,http://107.150.60.122/live/szwshd.m3u8
 深圳卫视,http://61.136.172.236:9901/tsfile/live/0126_1.m3u8
 三沙卫视,http://107.150.60.122/live/ssws.m3u8
 三沙卫视,http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8
